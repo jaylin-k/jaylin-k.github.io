@@ -1,4 +1,2 @@
 # jaylin-k6.github.io
-
-# Tus us jeirkt re otor oypr
-trh ryteu eir utro 
+This is the space to use for ITSE-1411
